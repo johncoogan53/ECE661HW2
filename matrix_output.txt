@@ -1,0 +1,1778 @@
+Training with learning rate: 1.0
+==> Training starts!
+==================================================
+Epoch 0:
+CUDA memory allocated: 18.93 MB
+Training loss: 1.8551, Training accuracy: 0.3076
+Validation loss: 1.5609, Validation accuracy: 0.4262
+Saving ...
+
+Epoch 1:
+CUDA memory allocated: 18.93 MB
+Training loss: 1.4695, Training accuracy: 0.4633
+Validation loss: 1.2964, Validation accuracy: 0.5396
+Saving ...
+
+Epoch 2:
+CUDA memory allocated: 18.93 MB
+Training loss: 1.3391, Training accuracy: 0.5178
+Validation loss: 1.1840, Validation accuracy: 0.5804
+Saving ...
+
+Epoch 3:
+CUDA memory allocated: 18.93 MB
+Training loss: 1.2575, Training accuracy: 0.5507
+Validation loss: 1.1815, Validation accuracy: 0.5796
+
+Epoch 4:
+CUDA memory allocated: 18.93 MB
+Training loss: 1.1961, Training accuracy: 0.5744
+Validation loss: 1.0745, Validation accuracy: 0.6194
+Saving ...
+
+Epoch 5:
+CUDA memory allocated: 18.93 MB
+Training loss: 1.1339, Training accuracy: 0.5968
+Validation loss: 1.0523, Validation accuracy: 0.6254
+Saving ...
+
+Epoch 6:
+CUDA memory allocated: 18.93 MB
+Training loss: 1.0933, Training accuracy: 0.6127
+Validation loss: 1.0078, Validation accuracy: 0.6390
+Saving ...
+
+Epoch 7:
+CUDA memory allocated: 18.93 MB
+Training loss: 1.0617, Training accuracy: 0.6232
+Validation loss: 1.0152, Validation accuracy: 0.6390
+
+Epoch 8:
+CUDA memory allocated: 18.93 MB
+Training loss: 1.0301, Training accuracy: 0.6332
+Validation loss: 0.9909, Validation accuracy: 0.6518
+Saving ...
+
+Epoch 9:
+CUDA memory allocated: 18.93 MB
+Training loss: 1.0068, Training accuracy: 0.6408
+Validation loss: 0.9386, Validation accuracy: 0.6652
+Saving ...
+
+Epoch 10:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.9844, Training accuracy: 0.6516
+Validation loss: 0.9431, Validation accuracy: 0.6576
+
+Epoch 11:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.9588, Training accuracy: 0.6592
+Validation loss: 0.9146, Validation accuracy: 0.6790
+Saving ...
+
+Epoch 12:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.9494, Training accuracy: 0.6646
+Validation loss: 0.9253, Validation accuracy: 0.6694
+
+Epoch 13:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.9371, Training accuracy: 0.6684
+Validation loss: 0.8941, Validation accuracy: 0.6742
+
+Epoch 14:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.9177, Training accuracy: 0.6776
+Validation loss: 0.8745, Validation accuracy: 0.6936
+Saving ...
+
+Epoch 15:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.9058, Training accuracy: 0.6807
+Validation loss: 0.9063, Validation accuracy: 0.6808
+
+Epoch 16:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.8947, Training accuracy: 0.6822
+Validation loss: 0.8752, Validation accuracy: 0.6890
+
+Epoch 17:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.8815, Training accuracy: 0.6883
+Validation loss: 0.8347, Validation accuracy: 0.6988
+Saving ...
+
+Epoch 18:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.8728, Training accuracy: 0.6922
+Validation loss: 0.8257, Validation accuracy: 0.7122
+Saving ...
+
+Epoch 19:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.8585, Training accuracy: 0.6955
+Validation loss: 0.8223, Validation accuracy: 0.7118
+
+Epoch 20:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.8480, Training accuracy: 0.7014
+Validation loss: 0.8427, Validation accuracy: 0.7068
+
+Epoch 21:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.8484, Training accuracy: 0.7005
+Validation loss: 0.8037, Validation accuracy: 0.7210
+Saving ...
+
+Epoch 22:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.8320, Training accuracy: 0.7034
+Validation loss: 0.8199, Validation accuracy: 0.7050
+
+Epoch 23:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.8282, Training accuracy: 0.7072
+Validation loss: 0.7933, Validation accuracy: 0.7190
+
+Epoch 24:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.8216, Training accuracy: 0.7116
+Validation loss: 0.7974, Validation accuracy: 0.7200
+
+Epoch 25:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.8133, Training accuracy: 0.7132
+Validation loss: 0.7927, Validation accuracy: 0.7208
+
+Epoch 26:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.8109, Training accuracy: 0.7171
+Validation loss: 0.8031, Validation accuracy: 0.7194
+
+Epoch 27:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.8056, Training accuracy: 0.7175
+Validation loss: 0.7927, Validation accuracy: 0.7228
+Saving ...
+
+Epoch 28:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.8020, Training accuracy: 0.7206
+Validation loss: 0.7944, Validation accuracy: 0.7226
+
+Epoch 29:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7922, Training accuracy: 0.7202
+Validation loss: 0.7629, Validation accuracy: 0.7392
+Saving ...
+
+==================================================
+==> Optimization finished! Best validation accuracy: 0.7392
+Training with learning rate: 0.1
+==> Training starts!
+==================================================
+Epoch 0:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7918, Training accuracy: 0.7208
+Validation loss: 0.7762, Validation accuracy: 0.7282
+Saving ...
+
+Epoch 1:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7812, Training accuracy: 0.7265
+Validation loss: 0.8006, Validation accuracy: 0.7176
+
+Epoch 2:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7762, Training accuracy: 0.7255
+Validation loss: 0.7690, Validation accuracy: 0.7320
+Saving ...
+
+Epoch 3:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7751, Training accuracy: 0.7267
+Validation loss: 0.7693, Validation accuracy: 0.7310
+
+Epoch 4:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7675, Training accuracy: 0.7305
+Validation loss: 0.7830, Validation accuracy: 0.7266
+
+Epoch 5:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7662, Training accuracy: 0.7325
+Validation loss: 0.7629, Validation accuracy: 0.7306
+
+Epoch 6:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7622, Training accuracy: 0.7310
+Validation loss: 0.7738, Validation accuracy: 0.7296
+
+Epoch 7:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7535, Training accuracy: 0.7356
+Validation loss: 0.7714, Validation accuracy: 0.7332
+Saving ...
+
+Epoch 8:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7507, Training accuracy: 0.7363
+Validation loss: 0.8238, Validation accuracy: 0.7100
+
+Epoch 9:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7521, Training accuracy: 0.7342
+Validation loss: 0.7593, Validation accuracy: 0.7366
+Saving ...
+
+Epoch 10:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7436, Training accuracy: 0.7382
+Validation loss: 0.7663, Validation accuracy: 0.7292
+
+Epoch 11:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7474, Training accuracy: 0.7345
+Validation loss: 0.7713, Validation accuracy: 0.7346
+
+Epoch 12:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7468, Training accuracy: 0.7373
+Validation loss: 0.7360, Validation accuracy: 0.7422
+Saving ...
+
+Epoch 13:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7390, Training accuracy: 0.7397
+Validation loss: 0.7652, Validation accuracy: 0.7308
+
+Epoch 14:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7399, Training accuracy: 0.7391
+Validation loss: 0.7466, Validation accuracy: 0.7334
+
+Epoch 15:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7310, Training accuracy: 0.7406
+Validation loss: 0.7486, Validation accuracy: 0.7408
+
+Epoch 16:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7310, Training accuracy: 0.7416
+Validation loss: 0.7383, Validation accuracy: 0.7420
+
+Epoch 17:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7276, Training accuracy: 0.7416
+Validation loss: 0.7321, Validation accuracy: 0.7402
+
+Epoch 18:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7240, Training accuracy: 0.7431
+Validation loss: 0.7368, Validation accuracy: 0.7410
+
+Epoch 19:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7199, Training accuracy: 0.7457
+Validation loss: 0.7522, Validation accuracy: 0.7404
+
+Epoch 20:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7183, Training accuracy: 0.7471
+Validation loss: 0.7401, Validation accuracy: 0.7440
+Saving ...
+
+Epoch 21:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7229, Training accuracy: 0.7442
+Validation loss: 0.7260, Validation accuracy: 0.7468
+Saving ...
+
+Epoch 22:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7161, Training accuracy: 0.7460
+Validation loss: 0.7341, Validation accuracy: 0.7422
+
+Epoch 23:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7166, Training accuracy: 0.7451
+Validation loss: 0.7170, Validation accuracy: 0.7508
+Saving ...
+
+Epoch 24:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7175, Training accuracy: 0.7480
+Validation loss: 0.7277, Validation accuracy: 0.7488
+
+Epoch 25:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7128, Training accuracy: 0.7492
+Validation loss: 0.7176, Validation accuracy: 0.7482
+
+Epoch 26:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7074, Training accuracy: 0.7470
+Validation loss: 0.7226, Validation accuracy: 0.7456
+
+Epoch 27:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7034, Training accuracy: 0.7531
+Validation loss: 0.7262, Validation accuracy: 0.7420
+
+Epoch 28:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6987, Training accuracy: 0.7521
+Validation loss: 0.7288, Validation accuracy: 0.7472
+
+Epoch 29:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.7006, Training accuracy: 0.7530
+Validation loss: 0.7278, Validation accuracy: 0.7496
+
+==================================================
+==> Optimization finished! Best validation accuracy: 0.7508
+Training with learning rate: 0.05
+==> Training starts!
+==================================================
+Epoch 0:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6969, Training accuracy: 0.7543
+Validation loss: 0.7583, Validation accuracy: 0.7370
+Saving ...
+
+Epoch 1:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6989, Training accuracy: 0.7535
+Validation loss: 0.7218, Validation accuracy: 0.7462
+Saving ...
+
+Epoch 2:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6935, Training accuracy: 0.7543
+Validation loss: 0.7206, Validation accuracy: 0.7468
+Saving ...
+
+Epoch 3:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6972, Training accuracy: 0.7535
+Validation loss: 0.7195, Validation accuracy: 0.7498
+Saving ...
+
+Epoch 4:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6905, Training accuracy: 0.7568
+Validation loss: 0.7358, Validation accuracy: 0.7428
+
+Epoch 5:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6815, Training accuracy: 0.7604
+Validation loss: 0.7687, Validation accuracy: 0.7338
+
+Epoch 6:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6899, Training accuracy: 0.7573
+Validation loss: 0.7323, Validation accuracy: 0.7458
+
+Epoch 7:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6849, Training accuracy: 0.7595
+Validation loss: 0.7369, Validation accuracy: 0.7472
+
+Epoch 8:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6832, Training accuracy: 0.7601
+Validation loss: 0.7132, Validation accuracy: 0.7516
+Saving ...
+
+Epoch 9:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6849, Training accuracy: 0.7592
+Validation loss: 0.7042, Validation accuracy: 0.7540
+Saving ...
+
+Epoch 10:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6824, Training accuracy: 0.7595
+Validation loss: 0.7035, Validation accuracy: 0.7498
+
+Epoch 11:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6829, Training accuracy: 0.7582
+Validation loss: 0.7372, Validation accuracy: 0.7466
+
+Epoch 12:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6816, Training accuracy: 0.7582
+Validation loss: 0.7030, Validation accuracy: 0.7558
+Saving ...
+
+Epoch 13:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6777, Training accuracy: 0.7603
+Validation loss: 0.7282, Validation accuracy: 0.7470
+
+Epoch 14:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6711, Training accuracy: 0.7608
+Validation loss: 0.7016, Validation accuracy: 0.7568
+Saving ...
+
+Epoch 15:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6720, Training accuracy: 0.7625
+Validation loss: 0.7401, Validation accuracy: 0.7450
+
+Epoch 16:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6706, Training accuracy: 0.7626
+Validation loss: 0.7108, Validation accuracy: 0.7534
+
+Epoch 17:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6736, Training accuracy: 0.7620
+Validation loss: 0.7143, Validation accuracy: 0.7556
+
+Epoch 18:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6745, Training accuracy: 0.7634
+Validation loss: 0.7026, Validation accuracy: 0.7612
+Saving ...
+
+Epoch 19:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6646, Training accuracy: 0.7659
+Validation loss: 0.7034, Validation accuracy: 0.7550
+
+Epoch 20:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6702, Training accuracy: 0.7642
+Validation loss: 0.6957, Validation accuracy: 0.7584
+
+Epoch 21:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6694, Training accuracy: 0.7626
+Validation loss: 0.7000, Validation accuracy: 0.7560
+
+Epoch 22:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6631, Training accuracy: 0.7657
+Validation loss: 0.7087, Validation accuracy: 0.7570
+
+Epoch 23:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6625, Training accuracy: 0.7667
+Validation loss: 0.6900, Validation accuracy: 0.7616
+Saving ...
+
+Epoch 24:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6617, Training accuracy: 0.7685
+Validation loss: 0.6945, Validation accuracy: 0.7516
+
+Epoch 25:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6608, Training accuracy: 0.7658
+Validation loss: 0.6929, Validation accuracy: 0.7582
+
+Epoch 26:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6546, Training accuracy: 0.7682
+Validation loss: 0.7239, Validation accuracy: 0.7526
+
+Epoch 27:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6611, Training accuracy: 0.7673
+Validation loss: 0.6999, Validation accuracy: 0.7608
+
+Epoch 28:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6542, Training accuracy: 0.7685
+Validation loss: 0.7052, Validation accuracy: 0.7562
+
+Epoch 29:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6572, Training accuracy: 0.7692
+Validation loss: 0.7035, Validation accuracy: 0.7654
+Saving ...
+
+==================================================
+==> Optimization finished! Best validation accuracy: 0.7654
+Training with learning rate: 0.01
+==> Training starts!
+==================================================
+Epoch 0:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6507, Training accuracy: 0.7708
+Validation loss: 0.6842, Validation accuracy: 0.7654
+Saving ...
+
+Epoch 1:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6555, Training accuracy: 0.7703
+Validation loss: 0.6967, Validation accuracy: 0.7620
+
+Epoch 2:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6486, Training accuracy: 0.7709
+Validation loss: 0.7388, Validation accuracy: 0.7450
+
+Epoch 3:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6522, Training accuracy: 0.7703
+Validation loss: 0.6810, Validation accuracy: 0.7680
+Saving ...
+
+Epoch 4:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6477, Training accuracy: 0.7715
+Validation loss: 0.7072, Validation accuracy: 0.7596
+
+Epoch 5:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6512, Training accuracy: 0.7693
+Validation loss: 0.7007, Validation accuracy: 0.7606
+
+Epoch 6:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6487, Training accuracy: 0.7691
+Validation loss: 0.6913, Validation accuracy: 0.7640
+
+Epoch 7:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6469, Training accuracy: 0.7711
+Validation loss: 0.6943, Validation accuracy: 0.7616
+
+Epoch 8:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6459, Training accuracy: 0.7733
+Validation loss: 0.6813, Validation accuracy: 0.7666
+
+Epoch 9:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6397, Training accuracy: 0.7742
+Validation loss: 0.7057, Validation accuracy: 0.7574
+
+Epoch 10:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6485, Training accuracy: 0.7728
+Validation loss: 0.6894, Validation accuracy: 0.7626
+
+Epoch 11:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6462, Training accuracy: 0.7712
+Validation loss: 0.7164, Validation accuracy: 0.7518
+
+Epoch 12:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6424, Training accuracy: 0.7752
+Validation loss: 0.6920, Validation accuracy: 0.7636
+
+Epoch 13:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6449, Training accuracy: 0.7752
+Validation loss: 0.6911, Validation accuracy: 0.7638
+
+Epoch 14:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6412, Training accuracy: 0.7742
+Validation loss: 0.7130, Validation accuracy: 0.7540
+
+Epoch 15:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6458, Training accuracy: 0.7720
+Validation loss: 0.6838, Validation accuracy: 0.7686
+Saving ...
+
+Epoch 16:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6386, Training accuracy: 0.7733
+Validation loss: 0.6975, Validation accuracy: 0.7566
+
+Epoch 17:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6363, Training accuracy: 0.7748
+Validation loss: 0.6763, Validation accuracy: 0.7648
+
+Epoch 18:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6373, Training accuracy: 0.7739
+Validation loss: 0.6740, Validation accuracy: 0.7694
+Saving ...
+
+Epoch 19:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6419, Training accuracy: 0.7726
+Validation loss: 0.7010, Validation accuracy: 0.7590
+
+Epoch 20:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6316, Training accuracy: 0.7770
+Validation loss: 0.6952, Validation accuracy: 0.7614
+
+Epoch 21:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6371, Training accuracy: 0.7750
+Validation loss: 0.7000, Validation accuracy: 0.7590
+
+Epoch 22:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6379, Training accuracy: 0.7762
+Validation loss: 0.6806, Validation accuracy: 0.7668
+
+Epoch 23:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6277, Training accuracy: 0.7787
+Validation loss: 0.6948, Validation accuracy: 0.7602
+
+Epoch 24:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6325, Training accuracy: 0.7771
+Validation loss: 0.6904, Validation accuracy: 0.7638
+
+Epoch 25:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6330, Training accuracy: 0.7769
+Validation loss: 0.6860, Validation accuracy: 0.7618
+
+Epoch 26:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6312, Training accuracy: 0.7782
+Validation loss: 0.6925, Validation accuracy: 0.7638
+
+Epoch 27:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6359, Training accuracy: 0.7740
+Validation loss: 0.7068, Validation accuracy: 0.7604
+
+Epoch 28:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6276, Training accuracy: 0.7775
+Validation loss: 0.6915, Validation accuracy: 0.7630
+
+Epoch 29:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6270, Training accuracy: 0.7785
+Validation loss: 0.6827, Validation accuracy: 0.7664
+
+==================================================
+==> Optimization finished! Best validation accuracy: 0.7694
+Training with learning rate: 0.005
+==> Training starts!
+==================================================
+Epoch 0:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6246, Training accuracy: 0.7803
+Validation loss: 0.6844, Validation accuracy: 0.7646
+Saving ...
+
+Epoch 1:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6287, Training accuracy: 0.7790
+Validation loss: 0.7007, Validation accuracy: 0.7634
+
+Epoch 2:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6234, Training accuracy: 0.7814
+Validation loss: 0.6886, Validation accuracy: 0.7610
+
+Epoch 3:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6270, Training accuracy: 0.7805
+Validation loss: 0.7025, Validation accuracy: 0.7584
+
+Epoch 4:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6259, Training accuracy: 0.7783
+Validation loss: 0.6793, Validation accuracy: 0.7640
+
+Epoch 5:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6258, Training accuracy: 0.7785
+Validation loss: 0.6840, Validation accuracy: 0.7642
+
+Epoch 6:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6226, Training accuracy: 0.7806
+Validation loss: 0.6820, Validation accuracy: 0.7676
+Saving ...
+
+Epoch 7:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6225, Training accuracy: 0.7808
+Validation loss: 0.6968, Validation accuracy: 0.7662
+
+Epoch 8:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6251, Training accuracy: 0.7806
+Validation loss: 0.6870, Validation accuracy: 0.7700
+Saving ...
+
+Epoch 9:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6198, Training accuracy: 0.7830
+Validation loss: 0.6882, Validation accuracy: 0.7640
+
+Epoch 10:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6209, Training accuracy: 0.7819
+Validation loss: 0.7012, Validation accuracy: 0.7634
+
+Epoch 11:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6199, Training accuracy: 0.7826
+Validation loss: 0.6793, Validation accuracy: 0.7688
+
+Epoch 12:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6127, Training accuracy: 0.7830
+Validation loss: 0.6942, Validation accuracy: 0.7694
+
+Epoch 13:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6242, Training accuracy: 0.7802
+Validation loss: 0.6841, Validation accuracy: 0.7652
+
+Epoch 14:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6199, Training accuracy: 0.7816
+Validation loss: 0.6761, Validation accuracy: 0.7754
+Saving ...
+
+Epoch 15:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6184, Training accuracy: 0.7813
+Validation loss: 0.6764, Validation accuracy: 0.7666
+
+Epoch 16:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6218, Training accuracy: 0.7800
+Validation loss: 0.6985, Validation accuracy: 0.7598
+
+Epoch 17:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6161, Training accuracy: 0.7809
+Validation loss: 0.6939, Validation accuracy: 0.7612
+
+Epoch 18:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6157, Training accuracy: 0.7842
+Validation loss: 0.6973, Validation accuracy: 0.7656
+
+Epoch 19:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6165, Training accuracy: 0.7821
+Validation loss: 0.6874, Validation accuracy: 0.7660
+
+Epoch 20:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6128, Training accuracy: 0.7827
+Validation loss: 0.6875, Validation accuracy: 0.7624
+
+Epoch 21:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6179, Training accuracy: 0.7802
+Validation loss: 0.6842, Validation accuracy: 0.7708
+
+Epoch 22:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6130, Training accuracy: 0.7828
+Validation loss: 0.6796, Validation accuracy: 0.7744
+
+Epoch 23:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6156, Training accuracy: 0.7853
+Validation loss: 0.6681, Validation accuracy: 0.7720
+
+Epoch 24:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6194, Training accuracy: 0.7806
+Validation loss: 0.6730, Validation accuracy: 0.7700
+
+Epoch 25:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6115, Training accuracy: 0.7845
+Validation loss: 0.6966, Validation accuracy: 0.7612
+
+Epoch 26:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6104, Training accuracy: 0.7860
+Validation loss: 0.7058, Validation accuracy: 0.7632
+
+Epoch 27:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6120, Training accuracy: 0.7817
+Validation loss: 0.6838, Validation accuracy: 0.7688
+
+Epoch 28:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6151, Training accuracy: 0.7800
+Validation loss: 0.6685, Validation accuracy: 0.7692
+
+Epoch 29:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6123, Training accuracy: 0.7846
+Validation loss: 0.6708, Validation accuracy: 0.7668
+
+==================================================
+==> Optimization finished! Best validation accuracy: 0.7754
+Training with learning rate: 0.001
+==> Training starts!
+==================================================
+Epoch 0:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6115, Training accuracy: 0.7846
+Validation loss: 0.6978, Validation accuracy: 0.7554
+Saving ...
+
+Epoch 1:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6068, Training accuracy: 0.7868
+Validation loss: 0.6886, Validation accuracy: 0.7662
+Saving ...
+
+Epoch 2:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6103, Training accuracy: 0.7826
+Validation loss: 0.6772, Validation accuracy: 0.7650
+
+Epoch 3:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6074, Training accuracy: 0.7846
+Validation loss: 0.6791, Validation accuracy: 0.7670
+Saving ...
+
+Epoch 4:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6115, Training accuracy: 0.7841
+Validation loss: 0.6884, Validation accuracy: 0.7680
+Saving ...
+
+Epoch 5:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6088, Training accuracy: 0.7853
+Validation loss: 0.6742, Validation accuracy: 0.7716
+Saving ...
+
+Epoch 6:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6093, Training accuracy: 0.7840
+Validation loss: 0.6753, Validation accuracy: 0.7702
+
+Epoch 7:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6022, Training accuracy: 0.7868
+Validation loss: 0.6798, Validation accuracy: 0.7694
+
+Epoch 8:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6050, Training accuracy: 0.7898
+Validation loss: 0.6813, Validation accuracy: 0.7694
+
+Epoch 9:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6065, Training accuracy: 0.7856
+Validation loss: 0.6745, Validation accuracy: 0.7684
+
+Epoch 10:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6071, Training accuracy: 0.7860
+Validation loss: 0.6790, Validation accuracy: 0.7716
+
+Epoch 11:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6018, Training accuracy: 0.7874
+Validation loss: 0.6716, Validation accuracy: 0.7746
+Saving ...
+
+Epoch 12:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6023, Training accuracy: 0.7885
+Validation loss: 0.6699, Validation accuracy: 0.7734
+
+Epoch 13:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6023, Training accuracy: 0.7867
+Validation loss: 0.6790, Validation accuracy: 0.7676
+
+Epoch 14:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6015, Training accuracy: 0.7864
+Validation loss: 0.6858, Validation accuracy: 0.7614
+
+Epoch 15:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6055, Training accuracy: 0.7864
+Validation loss: 0.6768, Validation accuracy: 0.7740
+
+Epoch 16:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6009, Training accuracy: 0.7870
+Validation loss: 0.6699, Validation accuracy: 0.7744
+
+Epoch 17:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6001, Training accuracy: 0.7887
+Validation loss: 0.6878, Validation accuracy: 0.7706
+
+Epoch 18:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6050, Training accuracy: 0.7854
+Validation loss: 0.6801, Validation accuracy: 0.7722
+
+Epoch 19:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6046, Training accuracy: 0.7873
+Validation loss: 0.6803, Validation accuracy: 0.7712
+
+Epoch 20:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6001, Training accuracy: 0.7878
+Validation loss: 0.6723, Validation accuracy: 0.7734
+
+Epoch 21:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5979, Training accuracy: 0.7894
+Validation loss: 0.6930, Validation accuracy: 0.7646
+
+Epoch 22:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6029, Training accuracy: 0.7856
+Validation loss: 0.6827, Validation accuracy: 0.7708
+
+Epoch 23:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6006, Training accuracy: 0.7900
+Validation loss: 0.6944, Validation accuracy: 0.7640
+
+Epoch 24:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6018, Training accuracy: 0.7870
+Validation loss: 0.6806, Validation accuracy: 0.7706
+
+Epoch 25:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5981, Training accuracy: 0.7873
+Validation loss: 0.6778, Validation accuracy: 0.7756
+Saving ...
+
+Epoch 26:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6004, Training accuracy: 0.7868
+Validation loss: 0.6779, Validation accuracy: 0.7642
+
+Epoch 27:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5963, Training accuracy: 0.7869
+Validation loss: 0.6838, Validation accuracy: 0.7652
+
+Epoch 28:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6042, Training accuracy: 0.7867
+Validation loss: 0.6629, Validation accuracy: 0.7772
+Saving ...
+
+Epoch 29:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5956, Training accuracy: 0.7881
+Validation loss: 0.6804, Validation accuracy: 0.7672
+
+==================================================
+==> Optimization finished! Best validation accuracy: 0.7772
+Training with regularization strength: 0.01
+==> Training starts!
+==================================================
+Epoch 0:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5969, Training accuracy: 0.7874
+Validation loss: 0.6721, Validation accuracy: 0.7732
+Saving ...
+
+Epoch 1:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5954, Training accuracy: 0.7915
+Validation loss: 0.6710, Validation accuracy: 0.7696
+
+Epoch 2:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5927, Training accuracy: 0.7905
+Validation loss: 0.6715, Validation accuracy: 0.7806
+Saving ...
+
+Epoch 3:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.6050, Training accuracy: 0.7858
+Validation loss: 0.6557, Validation accuracy: 0.7750
+
+Epoch 4:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5902, Training accuracy: 0.7897
+Validation loss: 0.6778, Validation accuracy: 0.7768
+
+Epoch 5:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5961, Training accuracy: 0.7876
+Validation loss: 0.6772, Validation accuracy: 0.7716
+
+Epoch 6:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5967, Training accuracy: 0.7905
+Validation loss: 0.6693, Validation accuracy: 0.7760
+
+Epoch 7:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5942, Training accuracy: 0.7909
+Validation loss: 0.6806, Validation accuracy: 0.7670
+
+Epoch 8:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5962, Training accuracy: 0.7914
+Validation loss: 0.7022, Validation accuracy: 0.7708
+
+Epoch 9:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5928, Training accuracy: 0.7906
+Validation loss: 0.6762, Validation accuracy: 0.7690
+
+Epoch 10:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5960, Training accuracy: 0.7896
+Validation loss: 0.6738, Validation accuracy: 0.7728
+
+Epoch 11:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5933, Training accuracy: 0.7910
+Validation loss: 0.6756, Validation accuracy: 0.7676
+
+Epoch 12:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5906, Training accuracy: 0.7927
+Validation loss: 0.6725, Validation accuracy: 0.7662
+
+Epoch 13:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5920, Training accuracy: 0.7911
+Validation loss: 0.6796, Validation accuracy: 0.7668
+
+Epoch 14:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5879, Training accuracy: 0.7906
+Validation loss: 0.6812, Validation accuracy: 0.7722
+
+Epoch 15:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5966, Training accuracy: 0.7899
+Validation loss: 0.6679, Validation accuracy: 0.7698
+
+Epoch 16:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5920, Training accuracy: 0.7910
+Validation loss: 0.6830, Validation accuracy: 0.7690
+
+Epoch 17:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5843, Training accuracy: 0.7920
+Validation loss: 0.6837, Validation accuracy: 0.7726
+
+Epoch 18:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5928, Training accuracy: 0.7906
+Validation loss: 0.6893, Validation accuracy: 0.7652
+
+Epoch 19:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5853, Training accuracy: 0.7941
+Validation loss: 0.6780, Validation accuracy: 0.7694
+
+Epoch 20:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5942, Training accuracy: 0.7912
+Validation loss: 0.6903, Validation accuracy: 0.7688
+
+Epoch 21:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5893, Training accuracy: 0.7927
+Validation loss: 0.6647, Validation accuracy: 0.7740
+
+Epoch 22:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5878, Training accuracy: 0.7908
+Validation loss: 0.6909, Validation accuracy: 0.7670
+
+Epoch 23:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5876, Training accuracy: 0.7922
+Validation loss: 0.6789, Validation accuracy: 0.7734
+
+Epoch 24:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5927, Training accuracy: 0.7918
+Validation loss: 0.6789, Validation accuracy: 0.7658
+
+Epoch 25:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5870, Training accuracy: 0.7929
+Validation loss: 0.6889, Validation accuracy: 0.7684
+
+Epoch 26:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5931, Training accuracy: 0.7903
+Validation loss: 0.6854, Validation accuracy: 0.7642
+
+Epoch 27:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5903, Training accuracy: 0.7904
+Validation loss: 0.6631, Validation accuracy: 0.7782
+
+Epoch 28:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5919, Training accuracy: 0.7911
+Validation loss: 0.6762, Validation accuracy: 0.7698
+
+Epoch 29:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5927, Training accuracy: 0.7912
+Validation loss: 0.6789, Validation accuracy: 0.7754
+
+==================================================
+==> Optimization finished! Best validation accuracy: 0.7806
+Training with regularization strength: 0.001
+==> Training starts!
+==================================================
+Epoch 0:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5900, Training accuracy: 0.7914
+Validation loss: 0.6744, Validation accuracy: 0.7766
+Saving ...
+
+Epoch 1:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5880, Training accuracy: 0.7927
+Validation loss: 0.6748, Validation accuracy: 0.7696
+
+Epoch 2:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5903, Training accuracy: 0.7908
+Validation loss: 0.6802, Validation accuracy: 0.7710
+
+Epoch 3:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5851, Training accuracy: 0.7928
+Validation loss: 0.6980, Validation accuracy: 0.7628
+
+Epoch 4:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5887, Training accuracy: 0.7935
+Validation loss: 0.6714, Validation accuracy: 0.7764
+
+Epoch 5:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5848, Training accuracy: 0.7920
+Validation loss: 0.6689, Validation accuracy: 0.7778
+Saving ...
+
+Epoch 6:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5896, Training accuracy: 0.7908
+Validation loss: 0.6733, Validation accuracy: 0.7740
+
+Epoch 7:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5897, Training accuracy: 0.7915
+Validation loss: 0.6590, Validation accuracy: 0.7808
+Saving ...
+
+Epoch 8:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5928, Training accuracy: 0.7885
+Validation loss: 0.6714, Validation accuracy: 0.7744
+
+Epoch 9:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5804, Training accuracy: 0.7967
+Validation loss: 0.6861, Validation accuracy: 0.7660
+
+Epoch 10:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5811, Training accuracy: 0.7953
+Validation loss: 0.6741, Validation accuracy: 0.7690
+
+Epoch 11:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5816, Training accuracy: 0.7938
+Validation loss: 0.6780, Validation accuracy: 0.7722
+
+Epoch 12:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5879, Training accuracy: 0.7920
+Validation loss: 0.6661, Validation accuracy: 0.7702
+
+Epoch 13:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5842, Training accuracy: 0.7936
+Validation loss: 0.6749, Validation accuracy: 0.7708
+
+Epoch 14:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5836, Training accuracy: 0.7933
+Validation loss: 0.6719, Validation accuracy: 0.7744
+
+Epoch 15:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5829, Training accuracy: 0.7928
+Validation loss: 0.6692, Validation accuracy: 0.7772
+
+Epoch 16:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5890, Training accuracy: 0.7921
+Validation loss: 0.6588, Validation accuracy: 0.7742
+
+Epoch 17:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5842, Training accuracy: 0.7926
+Validation loss: 0.6720, Validation accuracy: 0.7726
+
+Epoch 18:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5871, Training accuracy: 0.7918
+Validation loss: 0.6822, Validation accuracy: 0.7688
+
+Epoch 19:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5809, Training accuracy: 0.7925
+Validation loss: 0.6844, Validation accuracy: 0.7688
+
+Epoch 20:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5786, Training accuracy: 0.7956
+Validation loss: 0.6768, Validation accuracy: 0.7722
+
+Epoch 21:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5853, Training accuracy: 0.7940
+Validation loss: 0.6952, Validation accuracy: 0.7694
+
+Epoch 22:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5837, Training accuracy: 0.7936
+Validation loss: 0.6975, Validation accuracy: 0.7684
+
+Epoch 23:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5805, Training accuracy: 0.7940
+Validation loss: 0.6848, Validation accuracy: 0.7714
+
+Epoch 24:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5814, Training accuracy: 0.7945
+Validation loss: 0.6789, Validation accuracy: 0.7744
+
+Epoch 25:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5808, Training accuracy: 0.7945
+Validation loss: 0.6596, Validation accuracy: 0.7784
+
+Epoch 26:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5791, Training accuracy: 0.7942
+Validation loss: 0.6728, Validation accuracy: 0.7764
+
+Epoch 27:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5827, Training accuracy: 0.7940
+Validation loss: 0.6832, Validation accuracy: 0.7708
+
+Epoch 28:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5805, Training accuracy: 0.7923
+Validation loss: 0.6664, Validation accuracy: 0.7784
+
+Epoch 29:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5787, Training accuracy: 0.7952
+Validation loss: 0.6676, Validation accuracy: 0.7772
+
+==================================================
+==> Optimization finished! Best validation accuracy: 0.7808
+Training with regularization strength: 0.0001
+==> Training starts!
+==================================================
+Epoch 0:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5782, Training accuracy: 0.7934
+Validation loss: 0.6763, Validation accuracy: 0.7760
+Saving ...
+
+Epoch 1:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5786, Training accuracy: 0.7944
+Validation loss: 0.6658, Validation accuracy: 0.7808
+Saving ...
+
+Epoch 2:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5890, Training accuracy: 0.7907
+Validation loss: 0.6566, Validation accuracy: 0.7768
+
+Epoch 3:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5783, Training accuracy: 0.7944
+Validation loss: 0.6580, Validation accuracy: 0.7810
+Saving ...
+
+Epoch 4:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5797, Training accuracy: 0.7938
+Validation loss: 0.6601, Validation accuracy: 0.7798
+
+Epoch 5:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5829, Training accuracy: 0.7944
+Validation loss: 0.6727, Validation accuracy: 0.7752
+
+Epoch 6:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5783, Training accuracy: 0.7967
+Validation loss: 0.6601, Validation accuracy: 0.7786
+
+Epoch 7:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5820, Training accuracy: 0.7934
+Validation loss: 0.6658, Validation accuracy: 0.7776
+
+Epoch 8:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5843, Training accuracy: 0.7945
+Validation loss: 0.6709, Validation accuracy: 0.7804
+
+Epoch 9:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5809, Training accuracy: 0.7937
+Validation loss: 0.6765, Validation accuracy: 0.7764
+
+Epoch 10:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5805, Training accuracy: 0.7942
+Validation loss: 0.6764, Validation accuracy: 0.7762
+
+Epoch 11:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5810, Training accuracy: 0.7948
+Validation loss: 0.6646, Validation accuracy: 0.7838
+Saving ...
+
+Epoch 12:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5795, Training accuracy: 0.7919
+Validation loss: 0.6647, Validation accuracy: 0.7818
+
+Epoch 13:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5799, Training accuracy: 0.7943
+Validation loss: 0.6555, Validation accuracy: 0.7842
+Saving ...
+
+Epoch 14:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5765, Training accuracy: 0.7943
+Validation loss: 0.6778, Validation accuracy: 0.7762
+
+Epoch 15:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5759, Training accuracy: 0.7943
+Validation loss: 0.6674, Validation accuracy: 0.7786
+
+Epoch 16:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5844, Training accuracy: 0.7932
+Validation loss: 0.6602, Validation accuracy: 0.7814
+
+Epoch 17:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5724, Training accuracy: 0.7944
+Validation loss: 0.6745, Validation accuracy: 0.7780
+
+Epoch 18:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5764, Training accuracy: 0.7958
+Validation loss: 0.6696, Validation accuracy: 0.7772
+
+Epoch 19:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5761, Training accuracy: 0.7966
+Validation loss: 0.6689, Validation accuracy: 0.7784
+
+Epoch 20:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5794, Training accuracy: 0.7946
+Validation loss: 0.6707, Validation accuracy: 0.7790
+
+Epoch 21:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5776, Training accuracy: 0.7964
+Validation loss: 0.6735, Validation accuracy: 0.7762
+
+Epoch 22:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5719, Training accuracy: 0.7959
+Validation loss: 0.6576, Validation accuracy: 0.7836
+
+Epoch 23:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5691, Training accuracy: 0.7996
+Validation loss: 0.6593, Validation accuracy: 0.7824
+
+Epoch 24:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5758, Training accuracy: 0.7967
+Validation loss: 0.6553, Validation accuracy: 0.7804
+
+Epoch 25:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5735, Training accuracy: 0.7960
+Validation loss: 0.6584, Validation accuracy: 0.7860
+Saving ...
+
+Epoch 26:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5788, Training accuracy: 0.7947
+Validation loss: 0.6621, Validation accuracy: 0.7814
+
+Epoch 27:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5676, Training accuracy: 0.7981
+Validation loss: 0.6473, Validation accuracy: 0.7862
+Saving ...
+
+Epoch 28:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5800, Training accuracy: 0.7950
+Validation loss: 0.6521, Validation accuracy: 0.7872
+Saving ...
+
+Epoch 29:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5740, Training accuracy: 0.7965
+Validation loss: 0.6703, Validation accuracy: 0.7726
+
+==================================================
+==> Optimization finished! Best validation accuracy: 0.7872
+Training with regularization strength: 1e-05
+==> Training starts!
+==================================================
+Epoch 0:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5748, Training accuracy: 0.7958
+Validation loss: 0.6654, Validation accuracy: 0.7808
+Saving ...
+
+Epoch 1:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5738, Training accuracy: 0.7996
+Validation loss: 0.6722, Validation accuracy: 0.7746
+
+Epoch 2:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5758, Training accuracy: 0.7956
+Validation loss: 0.6711, Validation accuracy: 0.7778
+
+Epoch 3:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5741, Training accuracy: 0.7961
+Validation loss: 0.6685, Validation accuracy: 0.7784
+
+Epoch 4:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5705, Training accuracy: 0.7980
+Validation loss: 0.6905, Validation accuracy: 0.7704
+
+Epoch 5:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5720, Training accuracy: 0.7962
+Validation loss: 0.6780, Validation accuracy: 0.7710
+
+Epoch 6:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5742, Training accuracy: 0.7961
+Validation loss: 0.6709, Validation accuracy: 0.7762
+
+Epoch 7:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5730, Training accuracy: 0.7984
+Validation loss: 0.6731, Validation accuracy: 0.7786
+
+Epoch 8:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5772, Training accuracy: 0.7941
+Validation loss: 0.6662, Validation accuracy: 0.7778
+
+Epoch 9:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5733, Training accuracy: 0.7953
+Validation loss: 0.6536, Validation accuracy: 0.7824
+Saving ...
+
+Epoch 10:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5721, Training accuracy: 0.7958
+Validation loss: 0.6585, Validation accuracy: 0.7756
+
+Epoch 11:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5705, Training accuracy: 0.7970
+Validation loss: 0.6591, Validation accuracy: 0.7812
+
+Epoch 12:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5676, Training accuracy: 0.7992
+Validation loss: 0.6609, Validation accuracy: 0.7776
+
+Epoch 13:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5715, Training accuracy: 0.7975
+Validation loss: 0.6736, Validation accuracy: 0.7790
+
+Epoch 14:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5705, Training accuracy: 0.7968
+Validation loss: 0.6667, Validation accuracy: 0.7774
+
+Epoch 15:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5692, Training accuracy: 0.7990
+Validation loss: 0.6603, Validation accuracy: 0.7840
+Saving ...
+
+Epoch 16:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5709, Training accuracy: 0.7964
+Validation loss: 0.6692, Validation accuracy: 0.7822
+
+Epoch 17:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5725, Training accuracy: 0.7960
+Validation loss: 0.6586, Validation accuracy: 0.7778
+
+Epoch 18:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5679, Training accuracy: 0.7992
+Validation loss: 0.6722, Validation accuracy: 0.7784
+
+Epoch 19:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5675, Training accuracy: 0.7993
+Validation loss: 0.6687, Validation accuracy: 0.7756
+
+Epoch 20:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5684, Training accuracy: 0.7979
+Validation loss: 0.6603, Validation accuracy: 0.7790
+
+Epoch 21:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5661, Training accuracy: 0.7994
+Validation loss: 0.6567, Validation accuracy: 0.7854
+Saving ...
+
+Epoch 22:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5722, Training accuracy: 0.7967
+Validation loss: 0.6663, Validation accuracy: 0.7788
+
+Epoch 23:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5707, Training accuracy: 0.7976
+Validation loss: 0.6575, Validation accuracy: 0.7830
+
+Epoch 24:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5695, Training accuracy: 0.7981
+Validation loss: 0.6710, Validation accuracy: 0.7800
+
+Epoch 25:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5727, Training accuracy: 0.7957
+Validation loss: 0.6716, Validation accuracy: 0.7768
+
+Epoch 26:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5731, Training accuracy: 0.7965
+Validation loss: 0.6778, Validation accuracy: 0.7744
+
+Epoch 27:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5675, Training accuracy: 0.7986
+Validation loss: 0.6836, Validation accuracy: 0.7778
+
+Epoch 28:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5673, Training accuracy: 0.7993
+Validation loss: 0.6871, Validation accuracy: 0.7738
+
+Epoch 29:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5658, Training accuracy: 0.8000
+Validation loss: 0.6692, Validation accuracy: 0.7794
+
+==================================================
+==> Optimization finished! Best validation accuracy: 0.7854
+Training with regularization strength: 0.0
+==> Training starts!
+==================================================
+Epoch 0:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5705, Training accuracy: 0.7973
+Validation loss: 0.6812, Validation accuracy: 0.7754
+Saving ...
+
+Epoch 1:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5702, Training accuracy: 0.7967
+Validation loss: 0.6675, Validation accuracy: 0.7794
+Saving ...
+
+Epoch 2:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5667, Training accuracy: 0.8000
+Validation loss: 0.6777, Validation accuracy: 0.7782
+
+Epoch 3:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5692, Training accuracy: 0.8002
+Validation loss: 0.6589, Validation accuracy: 0.7812
+Saving ...
+
+Epoch 4:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5701, Training accuracy: 0.7971
+Validation loss: 0.6684, Validation accuracy: 0.7816
+Saving ...
+
+Epoch 5:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5693, Training accuracy: 0.8003
+Validation loss: 0.6505, Validation accuracy: 0.7840
+Saving ...
+
+Epoch 6:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5676, Training accuracy: 0.7994
+Validation loss: 0.6706, Validation accuracy: 0.7786
+
+Epoch 7:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5714, Training accuracy: 0.7998
+Validation loss: 0.6709, Validation accuracy: 0.7734
+
+Epoch 8:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5643, Training accuracy: 0.7998
+Validation loss: 0.6657, Validation accuracy: 0.7834
+
+Epoch 9:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5700, Training accuracy: 0.7965
+Validation loss: 0.6715, Validation accuracy: 0.7738
+
+Epoch 10:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5645, Training accuracy: 0.7992
+Validation loss: 0.6733, Validation accuracy: 0.7798
+
+Epoch 11:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5664, Training accuracy: 0.7989
+Validation loss: 0.6506, Validation accuracy: 0.7836
+
+Epoch 12:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5682, Training accuracy: 0.7980
+Validation loss: 0.6880, Validation accuracy: 0.7720
+
+Epoch 13:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5654, Training accuracy: 0.7989
+Validation loss: 0.6674, Validation accuracy: 0.7774
+
+Epoch 14:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5658, Training accuracy: 0.7989
+Validation loss: 0.6728, Validation accuracy: 0.7798
+
+Epoch 15:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5661, Training accuracy: 0.7990
+Validation loss: 0.6600, Validation accuracy: 0.7804
+
+Epoch 16:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5668, Training accuracy: 0.7992
+Validation loss: 0.6535, Validation accuracy: 0.7852
+Saving ...
+
+Epoch 17:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5709, Training accuracy: 0.7984
+Validation loss: 0.6602, Validation accuracy: 0.7794
+
+Epoch 18:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5639, Training accuracy: 0.8011
+Validation loss: 0.6590, Validation accuracy: 0.7840
+
+Epoch 19:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5671, Training accuracy: 0.7984
+Validation loss: 0.6673, Validation accuracy: 0.7818
+
+Epoch 20:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5695, Training accuracy: 0.7978
+Validation loss: 0.6713, Validation accuracy: 0.7808
+
+Epoch 21:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5697, Training accuracy: 0.7995
+Validation loss: 0.6686, Validation accuracy: 0.7774
+
+Epoch 22:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5671, Training accuracy: 0.7990
+Validation loss: 0.6727, Validation accuracy: 0.7748
+
+Epoch 23:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5678, Training accuracy: 0.7994
+Validation loss: 0.6612, Validation accuracy: 0.7766
+
+Epoch 24:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5622, Training accuracy: 0.8006
+Validation loss: 0.6632, Validation accuracy: 0.7804
+
+Epoch 25:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5682, Training accuracy: 0.7984
+Validation loss: 0.6870, Validation accuracy: 0.7692
+
+Epoch 26:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5616, Training accuracy: 0.8011
+Validation loss: 0.6758, Validation accuracy: 0.7754
+
+Epoch 27:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5648, Training accuracy: 0.8002
+Validation loss: 0.6738, Validation accuracy: 0.7722
+
+Epoch 28:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5657, Training accuracy: 0.8001
+Validation loss: 0.6882, Validation accuracy: 0.7760
+
+Epoch 29:
+CUDA memory allocated: 18.93 MB
+Training loss: 0.5724, Training accuracy: 0.7963
+Validation loss: 0.6761, Validation accuracy: 0.7678
+
+==================================================
+==> Optimization finished! Best validation accuracy: 0.7852
